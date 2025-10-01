@@ -1,7 +1,7 @@
 # OOPs
-# 🦸 Superhero & Polymorphism Demo
+#  Superhero & Polymorphism Demo
 
-## 📌 Description
+## Description
 This project demonstrates **Object-Oriented Programming (OOP)** concepts in Python, split into two parts:
 
 1. **Assignment 1: Superhero Class**
@@ -16,7 +16,7 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts in Pyth
 
 ---
 
-## 🧩 Assignment 1: Superhero Class
+## Assignment 1: Superhero Class
 
 ### Classes
 - **`Character`**
@@ -36,7 +36,7 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts in Pyth
 
 ---
 
-## 🎭 Activity 2: Polymorphism Challenge
+## Activity 2: Polymorphism Challenge
 
 ### Classes
 - **`Vehicle`** (base class, defines `move()` contract).
